@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<root>
+	<isMinor type="bool">True</isMinor>
+	<Perpetrator type="list">
+		<item type="str">instructing victim to lie</item>
+		<item type="str">controlling</item>
+		<item type="str">abusive</item>
+	</Perpetrator>
+	<Victim type="list">
+		<item type="str">physically abused</item>
+		<item type="str">emotional distress</item>
+		<item type="str">malnourished and/or tired</item>
+		<item type="str">looks impoverished</item>
+		<item type="str">no eye contact</item>
+	</Victim>
+	<Situation type="list">
+		<item type="str">cash payment</item>
+		<item type="str">hidden entrance</item>
+		<item type="str">near transit hub</item>
+		<item type="str">no ID</item>
+	</Situation>
+	<Description type="str">had hair, tattoos</Description>
+	<Contact type="str">555-555-5555</Contact>
+</root>
